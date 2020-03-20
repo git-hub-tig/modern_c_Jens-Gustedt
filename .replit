@@ -1,0 +1,2 @@
+language = "bash"
+run = "gcc -o cat cat.c && chmod +x cat && ./cat"
